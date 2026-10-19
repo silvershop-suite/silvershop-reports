@@ -40,3 +40,7 @@ v1.0 — six reports above, auto-discovered, i18n (en/nl/de/fr/es/it), tests + C
 ## Requirements
 
 - silvershop/core ^6, silverstripe/reports ^6, silverstripe/framework ^6, PHP ^8.3
+
+## Credits
+
+Built and maintained by **Remy Vaartjes** (<remy@xd.nl>) — part of the **SilverShop-Suite**.
