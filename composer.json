@@ -1,5 +1,5 @@
 {
-    "name": "silvershop/reports",
+    "name": "silvershop-suite/reports",
     "description": "Catalog and order hygiene reports for SilverShop, shown in the CMS Reports section.",
     "type": "silverstripe-vendormodule",
     "keywords": ["silverstripe", "silvershop", "ecommerce", "reports", "catalog"],

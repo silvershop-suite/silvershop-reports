@@ -28,8 +28,8 @@ Reports are auto-discovered — no configuration needed. Install and they appear
 ## Scope
 
 This module is the **generic catalog + order/sales** report bucket. Domain-specific reports live in the module they
-concern (the suite convention) — e.g. sales-by-brand in `silvershop/brands`, sales-by-category in
-`silvershop/category-index`, refunds in `silvershop/invoicing`, a ledger summary in `silvershop/ledger`, low-stock in
+concern (the suite convention) — e.g. sales-by-brand in `silvershop-suite/brands`, sales-by-category in
+`silvershop-suite/category-index`, refunds in `silvershop-suite/invoicing`, a ledger summary in `silvershop-suite/ledger`, low-stock in
 `silvershop/stock`, discounts in `silvershop/discounts`. Together with core's built-ins these cover the common
 "80/20" shop reports; search-terms / most-viewed need view-tracking infrastructure and are out of scope.
 
